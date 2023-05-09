@@ -13,9 +13,19 @@ header {
   color: rgb(0, 131, 24);
   padding: 20px;
 }
+.linkedin-icon {
+    background-image: url("https://www.linkedin.com/favicon.ico");
+}
 
+.github-icon {
+    background-image: url("https://github.com/favicon.ico");
+}
+
+.gmail-icon {
+    background-image: url("https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_dark_1x_r2.png");
+    background-size: cover;
+}
 nav ul {
-  list-style: none;
   margin: 0;
   padding: 0;
 }
@@ -189,3 +199,4 @@ footer {
   height: 250px;
   padding: 10%;
 }
+
